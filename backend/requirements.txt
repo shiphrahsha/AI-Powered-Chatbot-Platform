@@ -1,0 +1,9 @@
+Flask==2.3.2
+pymongo==4.5.0
+bcrypt==4.0.1
+python-dotenv==1.0.0
+transformers==4.36.2
+torch==2.1.2
+flask-cors==4.0.0
+Flask-SocketIO==5.3.6
+eventlet==0.33.3
